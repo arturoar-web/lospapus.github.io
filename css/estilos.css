@@ -1,0 +1,27 @@
+
+img {
+	width:300px;
+	transition: .3s ease;
+}
+
+img:hover {
+	transform: scale(1.2);
+}
+div h1 {
+	font-size: 35px;
+	font-weight: bold;
+}
+div h2 {
+	font-size: 20px;
+	 text-align: justify;
+}
+div h3 {
+	font-size 20px;
+	font-weight: bold;
+}
+div h4 {
+	font-size: 20px;
+}
+div h5 {
+	font-size: 20px;
+}
