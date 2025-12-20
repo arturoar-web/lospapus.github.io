@@ -16,7 +16,7 @@ div h2 {
 	 text-align: justify;
 }
 div h3 {
-	font-size 20px;
+	font-size 25px;
 	font-weight: bold;
 }
 div h4 {
@@ -24,6 +24,7 @@ div h4 {
 }
 div h5 {
 	font-size: 20px;
+	text-align: justify;
 }
 div ul{
 	font-size: 20px;
