@@ -36,6 +36,17 @@ div h5 a{
 background: #3BA7E1;
 	box-shadow: 0px 5px 0px #18171760;
 }
+
+a:link{
+	color:#DF1338;
+}
+a:hover{
+box-shadow:0px 2px 0px #18171760;
+	background:green;
+	}
+a:active{
+	background: #ff8000
+}
 div h6{
 	font-size: 20px;
 	text-align: justify;
