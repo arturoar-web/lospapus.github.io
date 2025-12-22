@@ -22,17 +22,12 @@ div h3 {
 div h4 {
 	font-size: 20px;
 }
-div h5 {
-	font-size: 20px;
-	
-	text-align: justify;
-
 	
 
 div ul{
 	font-size: 20px;
 }
-div a{
+ h5 a{
 	font-size:20px;
 	color:white;
 	padding:10px 20px;
